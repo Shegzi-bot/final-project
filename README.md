@@ -1,5 +1,8 @@
 # Simple Interest Calculator
-This project for calculating simple interest is:
+This project contains a simple interest calculator.
+
+## Formula
+The formula for calculating simple interest is:
 **I = P * R * T**
 Where:
 *   **I** = Simple Interest
